@@ -1,0 +1,3 @@
+this folder contains the dataset of the korean series from the year 2015-2021
+the data is collected with the help of web scarpping tool octoparse
+the manipulation of the data for the first time is done with the help of MS-excel
