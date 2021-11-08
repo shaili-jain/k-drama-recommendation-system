@@ -1,4 +1,4 @@
-# k-drama-recommendation-system
+# K-Drama Recommendation System
 Recommended systems are one of the most important techniques used to introduce 
 information about user needs, including related services, by analyzing user actions. With online 
 content platforms becoming more and more popular every day, thanks to personalized content 
